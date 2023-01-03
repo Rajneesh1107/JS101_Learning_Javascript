@@ -1,0 +1,14 @@
+var name= "Rajneesh Yadav";
+var school= "Government Polytechnic Lucknow";
+var grade= "A";
+var section= 1;
+var rollno=3232938;
+var subject1= (44);
+var subject2= (45);
+var subject3= (49);
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(rollno);
+console.log(subject1,subject2,subject3);
